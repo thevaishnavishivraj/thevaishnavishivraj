@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thevaishnavishivraj
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently pursuing IIT Jodhpur's Advanced CyberSecurity Programme
+- 🌱 I’m currently working as a Cyber Security Engineer
 - 💞️ I’m looking to collaborate on cybersecurity and networking related projects
 - 📫 How to reach me --> Email: vaishnavisrivastava271@gmail.com
 
